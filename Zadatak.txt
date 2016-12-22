@@ -1,4 +1,6 @@
 Skup podatata nad kojim treba da bude odradjen zadatak se nalazi na sledecem linku:
 https://drive.google.com/drive/folders/0B1ZJXQY32LBUT3pwdll3eXU4eUU?usp=sharing
 
-    Potrebno je postici tacnost prepoznavanja od bar 85%.
+    Video zapis sadrzi pokretne cifre koje prelaze preko linije!
+    Izvrsiti sabiranje svih cifara koje predu preko linije!
+    Potrebno je postici tacnost prepoznavanja od bar 85%!
